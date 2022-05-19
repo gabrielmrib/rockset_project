@@ -1,6 +1,6 @@
 import { Popover } from '@headlessui/react';
 import { ChatTeardropDots, SpeakerNone } from 'phosphor-react';
-import { WidgetForm } from './WidgetForm';
+import { WidgetForm } from './WidtgetForm';
 export function Widget() {
 
 
